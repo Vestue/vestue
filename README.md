@@ -44,7 +44,6 @@ I currently work with databases part-time during my studies. I find that enjoyab
 
 </td></tr></table>  
 
-<br/>  
 
 
 ## Languages and Tools  
