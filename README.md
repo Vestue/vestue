@@ -83,6 +83,6 @@ I currently work with databases part-time during my studies. I find that enjoyab
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vestue&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vestue&hide_border=true&layout=compact" align="left" style="width: 98%" />
 
 </td></tr></table>  
