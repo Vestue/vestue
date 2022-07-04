@@ -30,6 +30,9 @@ I currently work with databases part-time during my studies. I find that enjoyab
   
 
 * ⚡ Fun fact: I love Vim. I like moving fast and being pretty at the same time.  
+  
+  
+📫 contact@vestue.com
 
 
 </td><td valign="top" width="50%">
