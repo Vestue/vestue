@@ -10,7 +10,7 @@
 I'm a developer who spends way too much time learning new concepts instead of focusing on one thing at a time. 
 
 Seriously. 
-My brain shifts focus between web➡️desktop➡️game-➡️security-dev and back, like a pinball machine.
+My brain shifts focus between web-->desktop-->game-->security and back like a pinball machine.
 
 Luckily, I really enjoy learning new things and concepts from one side of development is usually useful to know for another side of development.
 
