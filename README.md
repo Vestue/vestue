@@ -23,7 +23,7 @@ I currently work with databases part-time during my studies. I find that enjoyab
 ## Quick info  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a storydriven 2D platformer in Godot.  
+- :telescope: I’m currently working on a storydriven 2D platformer in Godot.  <img src="https://vestue.com/images/rat.png"/> 
   
 - 🌱 I’m currently learning Kubernetes, Go, Blazor, Flutter and Rust. In no particular order, heh.  
   
