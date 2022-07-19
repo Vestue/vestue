@@ -8,10 +8,6 @@
 
 ### Glad to see you here!  
 I'm a developer who spends way too much time learning new concepts instead of focusing on one thing at a time. 
-
-Seriously. 
-My brain shifts focus between web-->desktop-->game-->security and back like a pinball machine.
-
 Luckily, I really enjoy learning new things and concepts from one side of development is usually useful to know for another side of development.
 
 I currently work with databases part-time during my studies. I find that enjoyable but since I can't stop finding new things interesting I'm not sure where I'm headed after I'm done with the two years of studying that are left. But I will figure that out as I go.  
