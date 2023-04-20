@@ -27,7 +27,7 @@ I currently work with databases part-time during my studies. I find that enjoyab
 
 * ⚡ I love Vim. I love moving fast and being pretty at the same time.  
  
-📫 contact@vestue.com
+📫 contact (at) vestue (dot) com
 
 </td><td valign="top" width="50%">
 
