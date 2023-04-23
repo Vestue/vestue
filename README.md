@@ -21,15 +21,15 @@ I currently work with databases part-time during my studies. I find that enjoyab
 
 - :telescope: I’m currently working on a storydriven 2D platformer in Godot.  <img src="https://vestue.com/images/rat.png"/> 
   
-- 🌱 I’m currently learning Kubernetes, Go, Blazor, Flutter and Rust.  
+- 🌱 I’m currently learning Flutter and F#.
   
-* :star: Check out my stars to see organized lists of repositories that I'm interested in.
+- :star: Check out my stars to see organized lists of repositories that I'm interested in.
 
-* ⚡ I love Vim. I love moving fast and being pretty at the same time.  
+<!--* ⚡ I love Vim. I love moving fast and being pretty at the same time.  -->
  
-📫 contact (at) vestue (dot) com
+📫 Reach me: contact (at) vestue (dot) com
 
-</td><td valign="top" width="50%">
+</td><td valign="middle" width="50%">
 
 <div align="center">
 <img src="https://i0.wp.com/ao.ms/wp-content/uploads/2020/01/beavisvim.gif?fit=492%2C376&ssl=1" align="center" style="width: 100%" />
