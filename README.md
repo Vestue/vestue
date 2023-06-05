@@ -1,10 +1,4 @@
 ## Hello there  <img src="https://vestue.com/images/benny_happy.png"/>
-  
-
-  
-  
-
-
 
 ### Glad to see you here!  
 I'm a developer who spends way too much time learning new concepts instead of focusing on one thing at a time. 
@@ -32,12 +26,10 @@ I currently work with databases part-time during my studies. I find that enjoyab
 </td><td valign="middle" width="50%">
 
 <div align="center">
-<img src="https://i0.wp.com/ao.ms/wp-content/uploads/2020/01/beavisvim.gif?fit=492%2C376&ssl=1" align="center" style="width: 100%" />
+<img src="https://vestue.com/images/beav-comp.gif" align="center" style="width: 100%" />
 </div>  
 
-
 </td></tr></table>  
-
 
 
 ## Languages and Tools  
