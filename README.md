@@ -12,9 +12,9 @@ I currently study Computer Science at Mälardalen University and work part-time 
 <table><tr><td valign="top" width="50%">
 
 - :checkered_flag: I aim to become a back-end developer after my studies.
-- :telescope: I'm developing a storydriven 2D platformer in Godot and a cross-platform app for dog walking, as side projects for fun.
+- :telescope: I'm developing a storydriven 2D platformer in Godot and a cross-platform app for dog walking, as hobby-projects.
   
-- 🌱 I’m currently learning Flutter and Rust.
+- 🌱 I’m currently focused on experimenting with Artificial Neural Networks and learning Linux Kernel Development.
   
 - :star: Check out my stars to see organized lists of repositories that I'm interested in.
 
