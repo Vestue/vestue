@@ -30,6 +30,9 @@ I currently study Computer Science at Mälardalen University and work part-time 
 
 </td></tr></table>  
 
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,bash,python,flutter,unity,godot,linux,vim)](https://skillicons.dev)
+
 <!-- Redo this part to be responsive
 ## Languages and Tools  
 <div align="center">  
