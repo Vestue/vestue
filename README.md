@@ -5,7 +5,6 @@ I'm a developer who loves learning new concepts that can be applied to my curren
 I enjoy dipping my toes in different parts of development and experience new things with web development, mobile applications, games, etc.
 
 I currently study Computer Science at Mälardalen University and work part-time with database development.
-  
 <br/>  
 
 ## Quick info  
